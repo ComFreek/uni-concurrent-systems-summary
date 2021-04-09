@@ -5,11 +5,11 @@
 The lecture [*Concurrent Systems* in winter term 20/21](https://www4.cs.fau.de/Lehre/WS20/V_CS/) had been delivered by [Prof. Wolfang Schröder-Preikschat](https://www4.cs.fau.de/~wosch/) at [FAU Erlangen-Nürnberg](https://fau.eu).
 This repository contains a summary (in German) which I had created as part of my exam preparation.
 
-The summary is best viewed on GitHub pages, <https://comfreek.github.io/uni-concurrent-systems-summary/>, and best edited in your favorite Markdown editor.
+The summary is best viewed on GitHub pages, <https://comfreek.github.io/uni-concurrent-systems-summary/html>, and best edited in your favorite Markdown editor.
 
 ## Table of Contents
 
-(links only work when served from GitHub pages, i.e. <https://comfreek.github.io/uni-concurrent-systems-summary/>)
+(links only work when served from GitHub pages, i.e. <https://comfreek.github.io/uni-concurrent-systems-summary/html>)
 
 - [general: concept of concurrency, blocking vs. non-blocking synchronization, resource types, progress guarantees](./general.html)
 - [nbs: non-blocking synchronization](./exam-nbs.html)
