@@ -22,7 +22,7 @@
 
   4. zirkuläres Warten
 
-<img src="./lectures/_nice_slide-lec9-progress-space.png" width="400" />
+<img src="./media/_nice_slide-lec9-progress-space.png" width="400" />
 
 **Deadlock Prevention,** konstruktive Methoden zur Entkräftung der notwendigen Bedingungen:
 
@@ -33,7 +33,7 @@
 
 **Deadlock Avoidance,** analytische Methoden zur Vermeidung der vierten Bedingung durch **a-priori Informationen** und kontinuierliches Überwachen der Ressourcenallokation
 
-![](./deadlock-avoidance-diagram.png)
+![](./media/deadlock-avoidance-diagram.png)
 
 Nachteile: a-priori Informationen (auf general-purpose Systemen hoffnungslos), skaliert schlecht
 

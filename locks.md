@@ -10,11 +10,11 @@ Probleme:
 
 ## Ebene, auf der gelocked wird
 
-![](./lectures/_nice_slide-lec6-crise-elop.png)
+![](./media/_nice_slide-lec6-crise-elop.png)
 
 ## Größe kritischer Abschnitte
 
-![](./lectures/_nice_slide-lec6-locks-overhead.png)
+![](./media/_nice_slide-lec6-locks-overhead.png)
 
 Je größer der kritische Abschnitt, desto
 
