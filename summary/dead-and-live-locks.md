@@ -22,7 +22,7 @@
 
   4. zirkuläres Warten
 
-<img src="../media/_nice_slide-lec9-progress-space.png" width="400" />
+<img src="../media/nice-slide-lec9-progress-space.png" width="400" />
 
 **Deadlock Prevention,** konstruktive Methoden zur Entkräftung der notwendigen Bedingungen:
 

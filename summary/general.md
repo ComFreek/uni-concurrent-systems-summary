@@ -78,7 +78,7 @@ Tatsächlich kann der Kernelprozess die Kontrolle behalten oder logisch (auf BS-
 
 ### Ressourcen
 
-![](../media/_nice_slide-lec2-types-of-resources.png)
+![](../media/nice-slide-lec2-types-of-resources.png)
 
 - Ressourcenarten implizieren verschiedene Nutzungsmuster:
 - Wiederverwendbare Ressourcen immer Behälter für konsumierbare Ressourcen
@@ -91,7 +91,7 @@ Synchronisation: Maßnahmen zur
   - Erzwingung der Kausalordnung auf Ereignissen zur Laufzeit (entweder durch statische oder dynamische Maßnahmen); multilateral oder unilateral
   - *logischen* Unteilbarkeit von komplexen Operationen (z. B. mit Locks bei block. Synchronisation \[hier auch phys. Unteilbarkeit\] oder mit Transaktionen bei nichtblock. Synchr.)
 
-![](../media/_nice_slide-lec2-types-of-synchronization.png)
+![](../media/nice-slide-lec2-types-of-synchronization.png)
 
 ## Fortschrittsgarantien
 

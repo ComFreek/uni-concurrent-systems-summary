@@ -20,7 +20,7 @@ Siehe [./exercise3.md](./exercise3.md).
 
 ### Hardware Ebene
 
-![](../media/_nice_slide-lec12-guases-model.png)
+![](../media/nice-slide-lec12-guases-model.png)
 
 1. Interrupt wird angezeigt
 2. Sprung zum FLIH
