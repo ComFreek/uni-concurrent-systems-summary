@@ -11,12 +11,12 @@ The summary is best viewed on GitHub pages, <https://comfreek.github.io/uni-conc
 
 (links only work when served from GitHub pages, i.e. <https://comfreek.github.io/uni-concurrent-systems-summary/>)
 
-- [general: concept of concurrency, blocking vs. non-blocking synchronization, resource types, progress guarantees](./general.html)
-- [nbs: non-blocking synchronization](./nbs.html)
-- [locks: spin locks up to ticket and MCS locks](./locks.html)
-- [mutex-sem-monitor: mutexes, semaphores, monitors](./mutex-sem-monitor.html)
-- [dead-and-live-locks: deadly embrace, necessary & sufficient conditions for deadlocks, deadlock prevention/avoidance/detection](./dead-and-live-locks.html)
-- [misc: miscelleanous stuff](./misc.html)
+- [general: concept of concurrency, blocking vs. non-blocking synchronization, resource types, progress guarantees](./summary/general.html)
+- [nbs: non-blocking synchronization](./summary/nbs.html)
+- [locks: spin locks up to ticket and MCS locks](./summary/locks.html)
+- [mutex-sem-monitor: mutexes, semaphores, monitors](./summary/mutex-sem-monitor.html)
+- [dead-and-live-locks: deadly embrace, necessary & sufficient conditions for deadlocks, deadlock prevention/avoidance/detection](./summary/dead-and-live-locks.html)
+- [misc: miscelleanous stuff](./summary/misc.html)
 
 ## License
 

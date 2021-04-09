@@ -28,7 +28,7 @@ Grundsätzliches Problem von Semaphoren:
 - Implementierung nicht-trivial (wait action unfolding)
 - In welcher Reihenfolge weckt man Prozesse auf? FIFO mit Queue vs. Konformität mit Planerentscheidungen.
 
-  <img src="./media/_nice_slide-lec7-sem-waitlist.png" width="500" />
+  <img src="../media/_nice_slide-lec7-sem-waitlist.png" width="500" />
 
 <br>
 
