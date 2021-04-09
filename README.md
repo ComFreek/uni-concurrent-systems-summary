@@ -1,6 +1,6 @@
 # Summary of Lecture *Concurrent Systems* (winter term 20/21)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![View on GitHub](https://img.shields.io/badge/view%20on-GitHub-brightgreen)](https://github.com/ComFreek/uni-concurrent-systems-summary/)&nbsp;[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 The lecture [*Concurrent Systems* in winter term 20/21](https://www4.cs.fau.de/Lehre/WS20/V_CS/) had been delivered by [Prof. Wolfgang Schröder-Preikschat](https://www4.cs.fau.de/~wosch/) at [FAU Erlangen-Nürnberg](https://fau.eu).
 This repository contains a summary (in German) which I had created as part of my exam preparation.
