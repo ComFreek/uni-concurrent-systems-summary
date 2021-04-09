@@ -5,7 +5,7 @@
 The lecture [*Concurrent Systems* in winter term 20/21](https://www4.cs.fau.de/Lehre/WS20/V_CS/) had been delivered by [Prof. Wolfang Schröder-Preikschat](https://www4.cs.fau.de/~wosch/) at [FAU Erlangen-Nürnberg](https://fau.eu).
 This repository contains a summary (in German) which I had created as part of my exam preparation.
 
-The summary is best viewed on GitHub pages, <https://comfreek.github.io/uni-concurrent-systems-summary/>, and best edited in your favorite Markdown editor. The HTML files have been rendered using the Visual Studio Code extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one).
+The summary is best viewed on GitHub pages, <https://comfreek.github.io/uni-concurrent-systems-summary/>, and best edited in your favorite Markdown editor. The HTML files have been rendered using the Visual Studio Code extension [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one), and manually edited to correct wrongfully inserted absolute paths to my hard disk.
 
 ## Table of Contents
 
