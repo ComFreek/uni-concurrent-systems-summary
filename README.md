@@ -1,6 +1,10 @@
 # Summary of Lecture "Concurrent Systems" (winter term 20/21)
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 The lecture [*Concurrent Systems* in winter term 20/21](https://www4.cs.fau.de/Lehre/WS20/V_CS/) had been delivered by [Prof. Wolfang Schröder-Preikschat](https://www4.cs.fau.de/~wosch/) at [FAU Erlangen-Nürnberg](https://fau.eu).
+
+See the individual Markdown files, best viewed in a Markdown editor (or with GitHub web UI).
 
 ## License
 
